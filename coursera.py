@@ -2,7 +2,7 @@ import os
 import shutil
 import sys
 
-def check_reboot():
+def checkDiskSpace():
     '''Returns True if the computer has a pending reboot'''
     return os.path.exists('/run/reboot-required')
 
@@ -23,7 +23,7 @@ def check_root_full():
 def main():
     everything_ok = True
     checks = [
-            (check_reboot, 'Pendig Reboot'),
+            (checkDiskSpace, 'Pendig Reboot'),
             (check_root_full, 'Root partition full'),
     ]
 
