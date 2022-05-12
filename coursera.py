@@ -35,7 +35,7 @@ def main():
     if not everything_ok:
         sys.exit(1)
 
-    print('Everything ok.')
+    print('Everything ok. Your disk space is optimal ( compare with 2GB and 10% )')
     sys.exit(0)
 
 main()
