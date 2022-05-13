@@ -1,5 +1,6 @@
 import os
 import shutil
+import socket
 import sys
 
 def checkDiskSpace():
@@ -20,11 +21,19 @@ def checkRootFull():
     '''Returns True if root partition is full, False otherwise'''
     return checkDiskFull(disk='/', min_gb=2, min_percent=10)
 
+def checkNoNetwork():
+    """Returns True if it fails to resolve Google's URL, False otherwise"""
+    try:
+        socket.gethostbyname('www.google.com')
+        return False
+    except:
+        return True
 def main():
     outputResult = True
     checks = [
-            (checkDiskSpace, 'Pendig Reboot'),
-            (checkRootFull, 'Root partition full'),
+        (checkDiskSpace, 'Pendig Reboot'),
+        (checkRootFull, 'Root partition full'),
+        (checkNoNetwork, 'No working network'),
     ]
 
     for check, msg in checks:
@@ -35,7 +44,7 @@ def main():
     if not outputResult:
         sys.exit(1)
 
-    print('Test successfully complited. Your disk root space is in optimal condition (default values is 2GB and 10%)')
+    print('Test successfully completed.\nYour disk root space is in optimal condition (default values is 2GB and 10%)')
     sys.exit(0)
 
 main()
