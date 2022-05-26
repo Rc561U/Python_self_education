@@ -9,3 +9,6 @@ if __name__ == '__main__':
     res = (solving(n))
     for i in res:
         print(i)
+
+
+print('I just wanna know how to update file in pull request')
