@@ -1,4 +1,4 @@
-*Basic Linux Commands Cheat-Sheet*\n
+*Basic Linux Commands Cheat-Sheet*
 
 This list includes a bunch of different commands that are useful to know when working with Linux. Not all of these commands are covered in the videos, so feel free to investigate them on your own.
 
