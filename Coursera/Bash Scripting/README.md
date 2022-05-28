@@ -51,7 +51,6 @@ This list includes a bunch of different commands that are useful to know when wo
     cut -dseparator -ffields file: for each line in the given file, splits the line according to the given separator and prints the given fields (starting from 1)
 
 **Additional commands**
-    echo "message": prints the message to standard output
     
     date: prints the current date
     
