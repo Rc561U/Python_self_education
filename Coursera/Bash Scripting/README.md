@@ -1,4 +1,5 @@
-**Basic Linux Commands Cheat-Sheet**
+*Basic Linux Commands Cheat-Sheet*
+
 This list includes a bunch of different commands that are useful to know when working with Linux. Not all of these commands are covered in the videos, so feel free to investigate them on your own.
 
 **Managing files and directories**
@@ -33,7 +34,7 @@ This list includes a bunch of different commands that are useful to know when wo
     chgrp group files: changes the group of the files to the given group
 
 **Operating with the content of files**
-    cat file: shows the content of the file through standard output
+    
     
     wc file: counts the amount of characters, words, and lines in the given file; can also count the same values of whatever it receives via stdin
     
