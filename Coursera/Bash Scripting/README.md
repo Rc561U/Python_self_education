@@ -60,4 +60,11 @@ This list includes a bunch of different commands that are useful to know when wo
     
     uptime: shows how long the computer has been running
     
-    free: shows the amount of unused memory on the current system  
+    free: shows the amount of unused memory on the current system
+**Bash Scripting Resources**
+
+https://ryanstutorials.net/bash-scripting-tutorial/
+
+https://linuxconfig.org/bash-scripting-tutorial-for-beginners
+
+https://www.shellscript.sh
