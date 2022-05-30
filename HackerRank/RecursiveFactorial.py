@@ -1,8 +1,8 @@
 import os
 
-#Recursive Method for Calculating Factorial
-def factorial(n):
 
+# Define again() Recursive function for Calculating Factorial
+def factorial(n):
     return n * factorial(n - 1) if n > 1 else n
 
 
