@@ -1,4 +1,4 @@
-In this lab, i changed the list.txt username  from "jane" to "jdoe" .I wrote a bash script and a Python script that will take care of the necessary rename operations.
+In this lab, i changed the list.txt username  from "jane" to "jdoe" . I wrote a bash script and a Python script that will take care of the necessary rename operations.
 
 
 **-findJane.sh**
