@@ -9,7 +9,7 @@ class StreamReader:
     FIELDS = ('id', 'title', 'pages')
 
     def readlines(self):
-        lst_in = [44, 'Baby', 23 ]  # считывание списка строк из входного потока
+        lst_in = list(map(str.strip, sys.stdin.readlines())) #[44, 'Baby', 23 ]
         sd = StreamData()
         res = sd.create(self.FIELDS, lst_in)
         return sd, res
