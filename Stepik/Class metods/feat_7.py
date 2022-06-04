@@ -1,3 +1,6 @@
+import sys
+
+
 class StreamData:
     def create(self, fields, lst_values):
         if len(fields) != len(lst_values): return  False
