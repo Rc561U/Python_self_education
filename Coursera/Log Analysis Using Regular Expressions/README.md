@@ -1,4 +1,4 @@
-Generate two **CSV** report files and visualize data on the web.
+#Generate two **CSV** report files and visualize data on the web.
 
 First, import all the Python modules that you'll use in this Python script. After importing the necessary modules, initialize two dictionaries: one for the number of different error messages and another to count the number of entries for each user (splitting between INFO and ERROR).
 
