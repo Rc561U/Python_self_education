@@ -42,3 +42,5 @@ class DataBase:
 db = DataBase('root', '123', 90)
 db2 = DataBase('root2', '56312', 40)
 print(id(db),id(db2))
+
+
