@@ -7,3 +7,10 @@ def get_line_list(d, a=[]):
     return a
 
 print(list(get_line_list(d)))
+
+
+def fib(x:int):
+    return fib(x-1) + fib(x-2)  if x > 2 else x
+
+
+print(fib(7))
