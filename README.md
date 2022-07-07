@@ -8,3 +8,5 @@
 **Stepik** - https://stepik.org/users/344421713
 
 **Codewars** - https://www.codewars.com/users/Rc561U
+
+**It-academy course** - https://www.brest.it-academy.by/course/python-developer/pt-python-developer/
