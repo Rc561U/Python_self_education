@@ -31,5 +31,5 @@ for templateLine in templates:
             userInput = input(templateLine)
 
 
-print(f'''Your account balance after {int(valuesList[1])} years will be {makeResult(*valuesList)} BYN
+print(f'''Your account balance in {int(valuesList[1])} years will be {makeResult(*valuesList)} BYN
 Your profit will be  {round(makeResult(*valuesList)-valuesList[0],2)} BYN''')
