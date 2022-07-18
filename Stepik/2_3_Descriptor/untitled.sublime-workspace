@@ -1,0 +1,903 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"remove"
+			],
+			[
+				"coun",
+				"count_weight"
+			],
+			[
+				"c",
+				"current"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"s",
+				"setattr"
+			],
+			[
+				"__set",
+				"__set__"
+			],
+			[
+				"_",
+				"__set_name__"
+			],
+			[
+				"Va",
+				"ValidateString"
+			],
+			[
+				"Str",
+				"StringValue"
+			],
+			[
+				"va",
+				"validator"
+			],
+			[
+				"m",
+				"min_length"
+			],
+			[
+				"__d",
+				"__dict__"
+			],
+			[
+				"__set_",
+				"__set_name__"
+			],
+			[
+				"Poin",
+				"Point3D"
+			],
+			[
+				"l",
+				"line"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"W",
+				"WindowDlg"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"__st",
+				"__is_str"
+			],
+			[
+				"C",
+				"CREATE_EMAIL"
+			],
+			[
+				"a",
+				"ascii_uppercase"
+			],
+			[
+				"as",
+				"ascii_uppercase"
+			],
+			[
+				"get",
+				"get_data"
+			],
+			[
+				"set",
+				"set_next"
+			],
+			[
+				"se",
+				"set_data"
+			],
+			[
+				"p",
+				"ptwo"
+			],
+			[
+				"ge",
+				"get_coords"
+			],
+			[
+				"N",
+				"None"
+			],
+			[
+				"__c",
+				"__check_money"
+			],
+			[
+				"clo",
+				"clock"
+			],
+			[
+				"che",
+				"check_time"
+			],
+			[
+				"ser",
+				"server"
+			],
+			[
+				"ch",
+				"choice"
+			],
+			[
+				"f",
+				"fl_like"
+			],
+			[
+				"ms",
+				"msg_list"
+			],
+			[
+				"Ap",
+				"Application"
+			],
+			[
+				"t",
+				"total_apps"
+			],
+			[
+				"add",
+				"add_application"
+			],
+			[
+				"A",
+				"Application"
+			],
+			[
+				"blo",
+				"blocked_list"
+			],
+			[
+				"V",
+				"Video"
+			],
+			[
+				"Vid",
+				"Video"
+			],
+			[
+				"v",
+				"videos"
+			],
+			[
+				"is",
+				"is_name"
+			],
+			[
+				"CH",
+				"CHARS_FOR_NAME"
+			],
+			[
+				"d",
+				"digits"
+			],
+			[
+				"CHAR",
+				"CHARS_CORRECT"
+			],
+			[
+				"ass",
+				"password"
+			],
+			[
+				"mt",
+				"mt-4"
+			],
+			[
+				"mb",
+				"mb-5"
+			],
+			[
+				"my",
+				"my-5"
+			],
+			[
+				"dis",
+				"display-4"
+			],
+			[
+				"g",
+				"g-3"
+			],
+			[
+				"col",
+				"col-auto"
+			],
+			[
+				"row",
+				"row-cols-2"
+			],
+			[
+				"align-items-",
+				"align-items-lg-center"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"b",
+				"btn-danger"
+			],
+			[
+				"nav",
+				"nav-link"
+			],
+			[
+				"navbar",
+				"navbar-nav"
+			],
+			[
+				"te",
+				"text-light"
+			],
+			[
+				"btn-sec",
+				"btn-success"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"p-md-2",
+				"pl-md-2"
+			],
+			[
+				"pm",
+				"p-md-2"
+			],
+			[
+				"navbar-expand-",
+				"navbar-expand-xl"
+			],
+			[
+				"navb",
+				"navbar-brand"
+			],
+			[
+				"bg",
+				"bg-light"
+			],
+			[
+				"py",
+				"py-4"
+			],
+			[
+				"pb",
+				"pb-3"
+			],
+			[
+				"pl",
+				"pl-2"
+			],
+			[
+				"align-text-",
+				"align-items-xl-center"
+			],
+			[
+				"tex",
+				"text-light"
+			],
+			[
+				"d-sm",
+				"d-sm-flex"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"fixe",
+				"fixed-top"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"bxl",
+				"bxl-pinterest"
+			],
+			[
+				"box",
+				"boxicons.min.css"
+			],
+			[
+				"ow",
+				"owl.carousel.min.js"
+			],
+			[
+				"jq",
+				"jquery.min.js"
+			],
+			[
+				"q",
+				"b4:card:header:quote"
+			],
+			[
+				"owl",
+				"owl.theme.default.min.css"
+			],
+			[
+				"o",
+				"owl.carousel.min.css"
+			],
+			[
+				"sea",
+				"search.svg"
+			],
+			[
+				"men",
+				"menu.svg"
+			],
+			[
+				"logo",
+				"logo.svg"
+			],
+			[
+				"i",
+				"img/"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"st",
+				"style.css"
+			],
+			[
+				"li",
+				"list-group-item"
+			],
+			[
+				"bi-",
+				"bi-linkedin"
+			],
+			[
+				"questio",
+				"question-one"
+			],
+			[
+				"rea",
+				"react"
+			],
+			[
+				"co",
+				"col-md"
+			],
+			[
+				"bi-peo",
+				"bi-people"
+			],
+			[
+				"text-li",
+				"text-lg-right"
+			],
+			[
+				"text-d",
+				"text-dark"
+			],
+			[
+				"pg-",
+				"pt-lg-5"
+			],
+			[
+				"car",
+				"card-title"
+			],
+			[
+				"76",
+				"768"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"hea",
+				"health"
+			],
+			[
+				"colla",
+				"b4:navbar:collapse"
+			],
+			[
+				"LI",
+				"link"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"so",
+				"soup"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"media",
+				"MEDIA_ROOT"
+			],
+			[
+				"DOC",
+				"document_root"
+			],
+			[
+				"MED",
+				"MEDIA_URL"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"Pyt",
+				"python3.9"
+			],
+			[
+				"rand",
+				"randint"
+			],
+			[
+				"cle",
+				"clear_terminal"
+			],
+			[
+				"Ke",
+				"KeyError"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"I",
+				"IndexError"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"art",
+				"art_default"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"branc",
+				"Git: New Branch"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"forma",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"pep",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"autopep",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"pac",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 166.0,
+		"history":
+		[
+			"pip install cssselect",
+			"s",
+			"pip install requests",
+			"quit()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/2_3_Descriptor"
+	],
+	"file_history":
+	[
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/2_3_Descriptor/template.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/2_3_Descriptor/test.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/2_3_Descriptor/fear_10.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/2_3_Descriptor/fear_9.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/2_3_Descriptor/fear_8.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/2_3_Descriptor/fear_7.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/2_3_Descriptor/fear_6.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/2_3_Descriptor/untitled.sublime-project",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/2_2/fear_10.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/2_2/fear_9.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/2_2/fear_7.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/2_2/fear_8.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/2_2/fear_5.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/2_2/fear_6.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/2_2/fear_4.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/1_7_Staticmethod/fear_5.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/2_2/fea",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/Contest_2/fear_10.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/Contest_2/fear_9.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/Contest_2/fear_8.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/Contest_2/fear_7.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/Contest_2/fear_6.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/Contest_2/fear_4.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/Contest_2/fear_3.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/1_7_Staticmethod/last_boss.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/1_7_Staticmethod/fear_11.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/1_7_Staticmethod/fear_10.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/1_7_Staticmethod/fear_9.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/1_7_Staticmethod/fear_8.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/1_7_Staticmethod/fear1_8.py",
+		"/home/hugeatom/Learn projectes/Python_self_education/Stepik/1_7_Staticmethod/fear1_7.py",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/templates/health/bootstrap.html",
+		"/home/hugeatom/Learn projectes/html\\css/restart/gravity/index.html",
+		"/home/hugeatom/Learn projectes/html\\css/restart/css/style.css",
+		"/home/hugeatom/Learn projectes/html\\css/restart/Prixima-main/css/style.css",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/static/health/css/style.css",
+		"/home/hugeatom/Learn projectes/Django/coolsite/coolsite/settings.py",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/templates/health/index.html",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/templates/health/style.css",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/views.py",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/templates/health/base.html",
+		"/home/hugeatom/Learn projectes/Django/academy/super/super/settings.py",
+		"/home/hugeatom/Learn projectes/web_scraping_projects/find_keyword.py",
+		"/home/hugeatom/Learn projectes/web_scraping_projects/nature_parser/nature.py",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/content/nature_scrap.py",
+		"/home/hugeatom/.config/sublime-text/Packages/User/hm_backup.sublime-build",
+		"/home/hugeatom/Learn projectes/web_scraping_projects/README.md",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/models.py",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/nature_scrap.py",
+		"/home/hugeatom/Learn projectes/Django/coolsite/coolsite/urls.py",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/urls.py",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/templates/health/about.html",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/migrations/ss.py",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/templates/index.html",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/apps.py",
+		"/home/hugeatom/Learn projectes/Django/test.py",
+		"/home/hugeatom/Learn projectes/backup_homework/saper.py",
+		"/home/hugeatom/.config/sublime-text/Packages/User/coolsite.sublime-build",
+		"/home/hugeatom/Learn projectes/backup_homework/testss.py",
+		"/home/hugeatom/Learn projectes/backup_homework/ui.py",
+		"/home/hugeatom/Learn projectes/web_scraping_projects/tournament squad/main.py",
+		"/home/hugeatom/Learn projectes/web_scraping_projects/tournament squad/data/reform_result.json",
+		"/home/hugeatom/Learn projectes/backup_homework/requirements.txt",
+		"/home/hugeatom/Learn projectes/backup_homework/test.py",
+		"/home/hugeatom/Learn projectes/backup_homework/data.py",
+		"/home/hugeatom/Learn projectes/backup_homework/bl.py",
+		"/home/hugeatom/Learn projectes/backup_homework/hm_backup.sublime-project",
+		"/home/hugeatom/Learn projectes/backup_homework/qi.py",
+		"/home/hugeatom/Learn projectes/main.py",
+		"/home/hugeatom/Learn projectes/homework/main.py",
+		"/home/hugeatom/Learn projectes/homework/zalupa.sublime-project",
+		"/home/hugeatom/Learn projectes/homework/test.py",
+		"/home/hugeatom/Learn projectes/homework/qi.py",
+		"/home/hugeatom/.config/sublime-text/Packages/User/homework.sublime-build",
+		"/home/hugeatom/Learn projectes/homework/bl.py",
+		"/home/hugeatom/Learn projectes/homework/data.py",
+		"/home/hugeatom/restore/qi/f956435280.py",
+		"/home/hugeatom/restore/f900503480.py",
+		"/home/hugeatom/Learn projectes/fd/test.py",
+		"/home/hugeatom/restore/f811954272.py",
+		"/home/hugeatom/restore/f970761408.py",
+		"/home/hugeatom/fgd/recup_dir.17/f27561920.py",
+		"/home/hugeatom/fgd/recup_dir.17/f27561688.py",
+		"/home/hugeatom/fgd/recup_dir.17/f27561672.py",
+		"/home/hugeatom/fgd/recup_dir.17/f27561664.py",
+		"/home/hugeatom/fgd/recup_dir.17/f27561656.py",
+		"/home/hugeatom/fgd/recup_dir.12/f19355648.py",
+		"/home/hugeatom/fgd/recup_dir.12/f19353600.py",
+		"/home/hugeatom/fgd/recup_dir.7/f17067008.py",
+		"/home/hugeatom/rec/lesson_3/homework/qi.py",
+		"/home/hugeatom/fgd/recup_dir.17/f27561944.py",
+		"/home/hugeatom/fgd/recup_dir.17/f27562136.py",
+		"/home/hugeatom/fgd/recup_dir.17/f27562440.py",
+		"/home/hugeatom/fgd/recup_dir.17/f27562488.py",
+		"/home/hugeatom/fgd/recup_dir.17/f27563256.py",
+		"/home/hugeatom/fgd/recup_dir.19/f33550080.py",
+		"/home/hugeatom/fgd/recup_dir.19/f33550304.py",
+		"/home/hugeatom/fgd/recup_dir.29/f42172160.py",
+		"/home/hugeatom/fgd/recup_dir.31/f58994208.py",
+		"/home/hugeatom/fgd/recup_dir.31/f59050544.py",
+		"/home/hugeatom/fgd/recup_dir.31/f59107368.py",
+		"/home/hugeatom/fgd/recup_dir.31/f59111688.py",
+		"/home/hugeatom/fgd/recup_dir.31/f59111696.py",
+		"/home/hugeatom/fgd/recup_dir.31/f59113136.py",
+		"/home/hugeatom/fgd/recup_dir.31/f59130616.py",
+		"/home/hugeatom/fgd/recup_dir.32/f59132152.py",
+		"/home/hugeatom/fgd/recup_dir.32/f59147368.py",
+		"/home/hugeatom/fgd/recup_dir.32/f59149096.py",
+		"/home/hugeatom/fgd/recup_dir.32/f59161056.py",
+		"/home/hugeatom/fgd/recup_dir.32/f59161080.py",
+		"/home/hugeatom/fgd/recup_dir.32/f59177640.py",
+		"/home/hugeatom/fgd/recup_dir.32/f59197352.py",
+		"/home/hugeatom/fgd/recup_dir.32/f59215064.py",
+		"/home/hugeatom/fgd/recup_dir.32/f59216400.py",
+		"/home/hugeatom/fgd/recup_dir.32/f59216992.py",
+		"/home/hugeatom/fgd/recup_dir.32/f59217024.py",
+		"/home/hugeatom/fgd/recup_dir.33/f59241776.py",
+		"/home/hugeatom/fgd/recup_dir.33/f59242408.py",
+		"/home/hugeatom/fgd/recup_dir.33/f59244176.py",
+		"/home/hugeatom/fgd/recup_dir.33/f59308736.py",
+		"/home/hugeatom/fgd/recup_dir.35/f59379768.py",
+		"/home/hugeatom/fgd/recup_dir.35/f59380352.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63125696.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63125912.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63125920.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126088.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126144.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126240.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"login = StringValue(validator = ValidateString)",
+			"())",
+			"app_list"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"app_dict"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 301.0
+	},
+	"output.Protocol":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 227.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 198.0
+	},
+	"pinned_build_system": "Packages/User/Scraping.sublime-build",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Learn projectes/homework/zalupa.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 287.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
