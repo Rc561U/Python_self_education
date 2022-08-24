@@ -2,13 +2,12 @@
 rus = [] 
 eng = []
 
+
 def open_source(origin:str)->list:
     # takes the path to the original file
     with open(origin) as t:
         text = t.read().split('\n')
         return text
-
-
 
 
 def transformation_origin(text:list) -> None:
@@ -40,8 +39,6 @@ def transformation_origin(text:list) -> None:
                     rus.append(e.strip()+"\n")
 
 
-
-
 def record_data(lst1:list,lst2:list) -> None:
     # saving the result of the conversion
     with open("eng.txt", "w") as e:
@@ -51,16 +48,12 @@ def record_data(lst1:list,lst2:list) -> None:
         r.writelines(lst2)
 
 
-
-
 def main(row_text:str):
     # function initialization and creation of final result-files(eng.txt,rus.txt)
         import_txt_for_translate = open_source(row_text)
         transform_into_two_array = transformation_origin(import_txt_for_translate)
         record_translation_result = record_data(eng, rus)
     
-
- 
 
 if __name__ == "__main__":
     # sure that file was run directly, and not imported
